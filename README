@@ -1,4 +1,4 @@
-```
+```md
 root@OpenWrt:/tmp# ./mt7981_factory_txpwr_patch.sh
 Usage:
 
