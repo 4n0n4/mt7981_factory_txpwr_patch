@@ -1,4 +1,4 @@
-```md
+````
 root@OpenWrt:/tmp# ./mt7981_factory_txpwr_patch.sh
 Usage:
 
@@ -51,4 +51,4 @@ root@OpenWrt:/tmp# ./mt7981_factory_txpwr_patch.sh -L ru
   rax3000me
   wbr3000uax
   wr3000p
-```
+````
